@@ -1,0 +1,28 @@
+{
+    "type": "origins:invisibility",
+    "render_armor": true,
+    "name": "Ranger Stride",
+    "description": "Invisible if sneaking barefooted in the woods",
+    "condition": {
+        "type": "origins:and",
+        "conditions": [
+            {
+                "type": "origins:biome",
+                "condition": {
+                    "type": "origins:category",
+                    "category": "forest"
+                }
+            },
+            {
+                "type": "origins:sneaking"
+            },
+            {
+                "type": "origins:equipped_item",
+                "equipment_slot": "feet",
+                "item_condition": {
+                    "type": "origins:empty"
+                }
+            }
+        ]
+    }
+}

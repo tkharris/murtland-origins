@@ -1,0 +1,7 @@
+{
+    "type": "origins:modify_player_spawn",
+    "name": "Woodlands Home",
+    "description": "Your natural spawn is woodland hills",
+    "dimension": "minecraft:overworld",
+    "biome": "minecraft:wooded_hills"
+}

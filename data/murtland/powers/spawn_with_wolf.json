@@ -1,0 +1,9 @@
+{
+    "type": "origins:starting_equipment",
+    "name": "Lupine Familiar",
+    "description": "Spawn with a wolf egg",
+    "stack": {
+        "item": "minecraft:wolf_spawn_egg"
+    },
+    "recurrent": true
+}

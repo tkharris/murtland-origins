@@ -1,0 +1,13 @@
+{
+    "powers": [
+        "murtland:ranger_stride",
+        "murtland:woods_spawn",
+        "origins:light_armor",
+        "murtland:spawn_with_wolf",
+        "murtland:woodland_friends"
+    ],
+    "icon": "minecraft:oak_sapling",
+    "order": 4,
+    "impact": 1,
+    "name": "Woodland Elf",
+    "description": "The Woodland Elf is completely invisible when sneaking barefooted in the woods, but can only wear light armor. Spawns with a wolf egg and can tame wolves with a firm pat on the back."}

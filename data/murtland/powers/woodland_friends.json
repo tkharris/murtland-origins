@@ -1,0 +1,8 @@
+{
+    "type": "origins:action_on_hit",
+    "name": "Woodland Friends",
+    "description": "Petting a tameable animal tames it",
+    "bientity_action": {
+        "type": "origins:tame"
+    }
+}
